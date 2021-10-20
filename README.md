@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @probetechs
+- 👀 I’m interested in application development and cybersecurity for Windows, Android, and iOS
+- 🌱 I’m currently learning SQL Databases, Kotlin, C#
+- 📫 How to reach me ...email: probepcco@gmail.com
